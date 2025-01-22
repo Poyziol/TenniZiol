@@ -26,3 +26,8 @@ E:\ITU\Dotnet\Tennis\obj\Debug\net9.0-windows\refint\Tennis.dll
 E:\ITU\Dotnet\Tennis\obj\Debug\net9.0-windows\Tennis.pdb
 E:\ITU\Dotnet\Tennis\obj\Debug\net9.0-windows\Tennis.genruntimeconfig.cache
 E:\ITU\Dotnet\Tennis\obj\Debug\net9.0-windows\ref\Tennis.dll
+E:\ITU\Dotnet\Tennis\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITU\Dotnet\Tennis\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITU\Dotnet\Tennis\bin\Debug\net9.0-windows\Npgsql.dll
+E:\ITU\Dotnet\Tennis\obj\Debug\net9.0-windows\Tennis.csproj.AssemblyReference.cache
+E:\ITU\Dotnet\Tennis\obj\Debug\net9.0-windows\Tennis.csproj.Up2Date

@@ -1,0 +1,1 @@
+select * from tennis_score;

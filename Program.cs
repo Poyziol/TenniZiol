@@ -1,16 +1,17 @@
-namespace Tennis;
+using System;
+using System.Windows.Forms;
+using src;
 
-static class Program
+namespace Tennis
 {
-    /// <summary>
-    ///  The main entry point for the application.
-    /// </summary>
-    [STAThread]
-    static void Main()
+    static class Program
     {
-        // To customize application configuration such as set high DPI settings or default font,
-        // see https://aka.ms/applicationconfiguration.
-        ApplicationConfiguration.Initialize();
-        Application.Run(new TennisGame());
-    }    
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new MainMenu());  // Lancer le menu principal
+        }
+    }
 }
